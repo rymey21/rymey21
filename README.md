@@ -1,16 +1,8 @@
 ### Hello! 👋
 
-<!--
-**rymey21/rymey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects in the area of data analytics, machine learning, and statistical analysis.
 - 🌱 I’m currently learning R, Python, and SAS coding.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with how to develop Python skills for automation of Excel based processes (trying to avoid VBA if possible).
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
